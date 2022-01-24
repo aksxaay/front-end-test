@@ -1,6 +1,6 @@
 ## front-end-test
 this where I'll be testing out a couple of the following things:-
-- react
+- react (installed)
 - sass
 - chakra UI
 - bootstrap whatnot
@@ -8,3 +8,4 @@ this where I'll be testing out a couple of the following things:-
 - maybe even some backend who knows.
 - tailwindcss
 - bootstrap
+- typescript (installed)
