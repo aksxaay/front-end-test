@@ -9,3 +9,4 @@ this where I'll be testing out a couple of the following things:-
 - tailwindcss
 - bootstrap
 - typescript (installed)
+- Next.js - react framework 
